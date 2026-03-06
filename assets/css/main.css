@@ -1299,7 +1299,7 @@ input, select, textarea {
 		}
 
 			#header .logo .icon:before {
-				font-size: 2rem;
+				font-size: 3rem;
 			}
 
 		#header .content {
@@ -1670,6 +1670,7 @@ input, select, textarea {
     font-size: 1.1rem;
 	font-weight: 100;
 }
+
 
 
 
