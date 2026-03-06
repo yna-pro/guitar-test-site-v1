@@ -1660,6 +1660,13 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+.reading {
+  font-size: 0.7em;
+  margin-top: -10px;
+  letter-spacing: 0.1em;
+}
+
+
 
 
 
