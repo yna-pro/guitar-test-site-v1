@@ -1159,7 +1159,7 @@ input, select, textarea {
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/メインビジュアル5.jpg");
-			background-position: center;
+			background-position: 40% 50%;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
@@ -1659,4 +1659,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
