@@ -1666,7 +1666,7 @@ input, select, textarea {
 /* ============================= */
 
 #header .content p.reading {
-  font-size: 1.0em;
+  font-size: 0.9em;
   margin-top: -50px;
   letter-spacing: 0.1em;
 }
@@ -1680,6 +1680,7 @@ input, select, textarea {
     font-size: 1.0rem;
     font-weight: 600;
 }
+
 
 
 
